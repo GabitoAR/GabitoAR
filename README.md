@@ -8,6 +8,6 @@
 
 ### 💻 Developer Jr
 
-🌱 Actually study Devs & Programation in Platzi
+🌱 Actually study Devs & Programmation in Platzi
 
 ### 📧 Email: gaboproyects@gmail.com
