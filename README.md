@@ -2,11 +2,12 @@
 
 [![Capsule Render](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Gabriel%20Aragón&fontAlign=50&descAlign=50&descAlignY=50)](https://github.com/GabitoAR/cypress-automation-demoqa)
 <br>
-<div align="center">
+<div align="center"> 
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+
  
 </div>
 
