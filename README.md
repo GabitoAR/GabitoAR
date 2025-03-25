@@ -1,8 +1,16 @@
-<h1 align='center'>Hi there  👋, I'm Gabriel
+<h1 align="center"><b>Hi , I'm Gabo Aragón Developer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+[![Capsule Render](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Gabriel%20Aragón&fontAlign=50&descAlign=50&descAlignY=50)](https://github.com/GabitoAR/cypress-automation-demoqa)
+<br>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+ 
+</div>
 
 <p align='center'>👨‍💻 Developer. | 👨‍🚀 Platzi Student</p>
-
-### Welcome to my GitHub profile
 
 📍 I´m born in Argentina. The eart of Messi, Maradona and Dulce de leche Papaa!! 🩵🤍🩵
 
